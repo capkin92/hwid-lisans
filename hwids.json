@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-ssasdas
-=======
-123
->>>>>>> c7519b84fb2f498374dc7d2cd5f0dc7206cd5299
+{
+  "allowed_hwids": [
+    "BFEBFBFF000B06A2",
+    "1F8BFBFF000406F1"
+  ]
+}
